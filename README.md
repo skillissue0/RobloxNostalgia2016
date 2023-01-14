@@ -9,5 +9,4 @@ so cool and good :(
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/skillissue0/RobloxNostalgia2016/main/source"))()
 ```
 
-**discord: skillissue#3064**
-**discord server: https://discord.gg/YankXvkWF4**
+***discord: skillissue#3064***
