@@ -5,7 +5,7 @@ so cool and good :(
 ***Dont skid brr, If u skid my script u gay ok?***
 
 # Loadstring
-```https://raw.githubusercontent.com/skillissue0/RobloxNostalgia2016/main/source `rgb(9, 105, 218)```
+```https://raw.githubusercontent.com/skillissue0/RobloxNostalgia2016/main/source```
 
 **discord: skillissue#3064**
 **discord server: https://discord.gg/YankXvkWF4**
