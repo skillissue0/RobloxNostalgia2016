@@ -1,4 +1,4 @@
-# Roblox Nostalgia Script
+# Roblox Nostalgia [![Discord Shield](https://discordapp.com/api/guilds/958056630321303602/widget.png)](https://discord.gg/sYqDpbPYb7)
 If u missed 2016 year,u can use this scripto
 so cool and good :(
 
