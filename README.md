@@ -10,3 +10,15 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/skillissue0/Robl
 ```
 
 ***discord: skillissue#3064***
+
+$ cat .gitattributes
+public/* linguist-generated
+scot-ui/public/* linguist-generated
+
+$ github-linguist
+52.90%  HTML
+42.84%  JavaScript
+2.87%   Perl
+0.62%   CSS
+0.41%   Perl 6
+0.35%   Shell
